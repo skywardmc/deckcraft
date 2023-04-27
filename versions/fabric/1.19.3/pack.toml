@@ -1,0 +1,13 @@
+name = "DeckCraft"
+author = "UltraStorm"
+version = "1.0.0+1.19.3.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bd32c12d7e28ed07bf151e166c6e8a240d86e725cf57319df0561081a23aeffb"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.3"
