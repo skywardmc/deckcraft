@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/intergrav/Additive">
+  <a href="https://github.com/intergrav/DeckCraft">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/deckcraft/branding/wordmark/wordmark_256h.png" alt="Logo" height="75">
   </a>
   <br />
