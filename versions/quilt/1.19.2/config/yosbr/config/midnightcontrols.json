@@ -5,7 +5,7 @@
   "moveChat": true,
   "controllerToggleSneak": true,
   "controllerToggleSprint": true,
-  "fastBlockPlacing": false,
+  "fastblockPlacing": true,
   "flyDrifting": false,
   "horizontalReacharound": false,
   "verticalReacharound": false,

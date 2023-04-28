@@ -66,7 +66,7 @@ hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
-hash = "2d3f373e4d1b54eb02be2bdfc3df5c30ea21db2bc26968926e7773b76b54b1fe"
+hash = "dbb62c94fb7ceb7676568e8100c7165f6755916406cf4914dd92aef3bfc35505"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -305,6 +305,18 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v8.2.03.zip.txt"
+hash = "c05307e2607e250f728f30b581911c34b5a118bf01013f18dbbbfe0f7b283e5b"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r2.1.zip.txt"
+hash = "5fe09874162eda9641567115bf7da115a85022f086abd63a9b038726b4081416"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-8.8b.zip.txt"
+hash = "29e8ab75e328cf4eed5b0ef0d4d6e3a69e77aad72adfbea94c1ff814cde185e0"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
