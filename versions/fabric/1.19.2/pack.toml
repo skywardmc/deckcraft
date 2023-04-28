@@ -1,12 +1,12 @@
 name = "DeckCraft"
 author = "UltraStorm"
-version = "1.0.0+1.19.2.fabric"
+version = "1.0.1+1.19.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "28deafb7c88f4ef0022a23a0b4d8ce65184457903945641ba38296f198508dfd"
+hash = "2b0e2938461087e772af84246959bc711f2dfb4803ecafeffc9288ab21ebe2e6"
 
 [versions]
 fabric = "0.14.19"

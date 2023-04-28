@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "018b516b7372dfd61248c980dc9b3f68c99e6b6fb232c29948e3f7dad25de18d"
+hash = "134619844814b93031adab233c88feee31a5dba95cc549a4288923d8f31919d0"
 
 [[files]]
 file = "config/puzzle.json"
@@ -94,7 +94,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1c6773a1e1f9c8adb16a848374eabf6278692e53993414f17fad4c6111b23868"
+hash = "f4c0e84d592f5e9d9a4d77b168f70b266d2d04e3bbfa4df3a4a54b1dd15bd1bf"
 
 [[files]]
 file = "mods/animatica.pw.toml"

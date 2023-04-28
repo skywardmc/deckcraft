@@ -1,5 +1,6 @@
 enableVsync:true
 entityShadows:false
+renderDistance:10
 simulationDistance:5
 graphicsMode:0
 maxFps:60
@@ -10,7 +11,7 @@ fov:0.25
 fovEffectScale:0.75
 screenEffectScale:0.5
 damageTiltStrength:0.75
-guiScale:2
+guiScale:0
 particles:1
 resourcePacks:["vanilla","fabric","midnightcontrols:bedrock"]
 bobView:false
