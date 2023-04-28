@@ -1,0 +1,13 @@
+name = "Builder's QOL Shaders"
+filename = "Builder's QOL Shaders V2.10.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6NnvPzWJ/versions/pN8VfhwO/Builder%27s%20QOL%20Shaders%20V2.10.0.zip"
+hash-format = "sha1"
+hash = "fa3cb738952021756f28f2ea0acaf2e37efa87d6"
+
+[update]
+[update.modrinth]
+mod-id = "6NnvPzWJ"
+version = "pN8VfhwO"

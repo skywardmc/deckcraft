@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "controlsMode": "CONTROLLER",
+  "autoSwitchMode": false,
+  "moveChat": true,
+  "controllerToggleSneak": true,
+  "controllerToggleSprint": true,
+  "fastBlockPlacing": false,
+  "flyDrifting": false,
+  "horizontalReacharound": false,
+  "verticalReacharound": false,
+  "rotationSpeed": 30.0,
+  "yAxisRotationSpeed": 30.0,
+  "mouseSpeed": 30.0,
+  "controllerType": "STEAM_DECK"
+}

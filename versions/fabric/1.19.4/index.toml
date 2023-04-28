@@ -65,6 +65,10 @@ file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
 [[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "2d3f373e4d1b54eb02be2bdfc3df5c30ea21db2bc26968926e7773b76b54b1fe"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
@@ -77,8 +81,12 @@ file = "config/yosbr/config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "1763b45daf55952e350a25269a144ad3081fa8ecf17f3fcde63303c74247f59a"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "67987b61ce7bd4713378e09a7779ca0aa6e9daf82cf7cf51a4f0ec8c86aa6e76"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -86,7 +94,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
+hash = "1c6773a1e1f9c8adb16a848374eabf6278692e53993414f17fad4c6111b23868"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -125,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
+hash = "26834b11c830470d89632e3a8d1c0aea786aa4f1e03aabf99cfb4161f3c097bb"
 metafile = true
 
 [[files]]
@@ -135,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
 metafile = true
 
 [[files]]
@@ -145,12 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -165,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
 metafile = true
 
 [[files]]
@@ -210,12 +218,22 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols-extra.pw.toml"
+hash = "563a2484af46ebe381f606733cce8e75450dc8de141a115bb82120ddfc47d535"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "91d02b042634e0ae627cf13a60c3c7ca7e600156b45a3c997ed08842760731fc"
 metafile = true
 
 [[files]]
@@ -270,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b77bc86bc7b354a55ed610b76c65e1ec0f9b2246b29e4a52d8d40889c975f4df"
+hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
 metafile = true
 
 [[files]]
@@ -279,11 +297,31 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "187b4b7fbf0edfffc6471b5fb927db6a3555c2e8fd6cd03e2bd6be665848a202"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "187b4b7fbf0edfffc6471b5fb927db6a3555c2e8fd6cd03e2bd6be665848a202"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "eb58e87100f2c3119960a4fb3d7c145d0c8f7b9b10e84185b48fdb88fb15d0dc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/builders-qol-shaders.pw.toml"
+hash = "73094c3517ba301eb3dea302e91d3cdfb88a5e7adb42f71ead5b582c2f344b8b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "4c66bd79f92ee942375b8ab84f0fc3738cc0056f20263892dba44e637ad9a05c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillaa.pw.toml"
+hash = "5def7fe470d25c729d7356c856984ab517e8cbcdf0b01eced72aa1dc95accb3b"
 metafile = true

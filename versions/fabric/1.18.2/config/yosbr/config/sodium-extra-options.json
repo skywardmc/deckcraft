@@ -1,0 +1,12 @@
+{
+  "particle_settings": {
+    "other": {
+      "minecraft:crimson_spore": false,
+      "minecraft:warped_spore": false,
+      "minecraft:white_ash": false
+    }
+  },
+  "extra_settings": {
+    "text_contrast": "SHADOW",
+    "show_f_p_s_extended": false,
+  }
