@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/intergrav/DeckCraft">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/deckcraft/wordmark/wordmark_128h.png" alt="Logo" height="75">
+    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/deckcraft/wordmark/wordmark_svg.svg" alt="Logo" height="75">
   </a>
   <br />
   <br />
