@@ -5,7 +5,8 @@ simulationDistance:5
 graphicsMode:0
 maxFps:60
 renderClouds:"true"
-mipmapLevels:3
+mipmapLevels:4
+fullscreen:true
 darkMojangStudiosBackground:true
 fov:0.25
 fovEffectScale:0.75
@@ -13,6 +14,4 @@ screenEffectScale:0.5
 damageTiltStrength:0.75
 guiScale:0
 particles:1
-resourcePacks:["vanilla","fabric","midnightcontrols:bedrock"]
 bobView:false
-mipmapLevels:4

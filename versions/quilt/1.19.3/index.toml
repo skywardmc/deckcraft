@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "134619844814b93031adab233c88feee31a5dba95cc549a4288923d8f31919d0"
+hash = "ddd39e78dfdda34552e53e9a24da7962957b7c55a8306f6320cc022a2497245f"
 
 [[files]]
 file = "config/puzzle.json"
@@ -94,7 +94,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f4c0e84d592f5e9d9a4d77b168f70b266d2d04e3bbfa4df3a4a54b1dd15bd1bf"
+hash = "3930b9d08ae65c566a6778e306c83fbd128c17665dc55078d40f4bb9e5cf6b22"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -320,7 +320,7 @@ file = "shaderpacks/ComplementaryReimagined_r2.1.zip.txt"
 hash = "5fe09874162eda9641567115bf7da115a85022f086abd63a9b038726b4081416"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.8b.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.8c.zip.txt"
 hash = "29e8ab75e328cf4eed5b0ef0d4d6e3a69e77aad72adfbea94c1ff814cde185e0"
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "4c66bd79f92ee942375b8ab84f0fc3738cc0056f20263892dba44e637ad9a05c"
+hash = "476f5219961ffab5b92160aec12f15a014a1440ca5e6c4ca2cc06345f119a886"
 metafile = true
 
 [[files]]

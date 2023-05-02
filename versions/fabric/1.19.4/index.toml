@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "134619844814b93031adab233c88feee31a5dba95cc549a4288923d8f31919d0"
+hash = "ddd39e78dfdda34552e53e9a24da7962957b7c55a8306f6320cc022a2497245f"
 
 [[files]]
 file = "config/puzzle.json"
@@ -94,7 +94,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f4c0e84d592f5e9d9a4d77b168f70b266d2d04e3bbfa4df3a4a54b1dd15bd1bf"
+hash = "7862de0b62b2d6282a0cd0c7ac08e7e09f66833caec69ef16a554c34b89483e1"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
+hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
 
 [[files]]
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
@@ -268,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ file = "shaderpacks/ComplementaryReimagined_r2.1.zip.txt"
 hash = "5fe09874162eda9641567115bf7da115a85022f086abd63a9b038726b4081416"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.8b.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.8c.zip.txt"
 hash = "29e8ab75e328cf4eed5b0ef0d4d6e3a69e77aad72adfbea94c1ff814cde185e0"
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "4c66bd79f92ee942375b8ab84f0fc3738cc0056f20263892dba44e637ad9a05c"
+hash = "476f5219961ffab5b92160aec12f15a014a1440ca5e6c4ca2cc06345f119a886"
 metafile = true
 
 [[files]]
