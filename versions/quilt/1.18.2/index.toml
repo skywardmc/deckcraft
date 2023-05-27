@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ddd39e78dfdda34552e53e9a24da7962957b7c55a8306f6320cc022a2497245f"
+hash = "b1ca258620235dd55021b29ad7ef6a453adb42c8acb6ff37d9504354a141ddb4"
 
 [[files]]
 file = "config/puzzle.json"
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "3125e80488a12cc0925e7a8b065acc2eafecfd5517e7ad81b4e054474624362e"
+hash = "592230244f9d4e4bafca9572bbb96df3e4ecb05a4f1643660bb113ac654cd6f1"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -204,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "062b63f97387a4ec3db4586a5f29243d3ad59460456e4c8d9a914f1a35154f5e"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
 
 [[files]]
@@ -258,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "13be07b6931766db4c96bcda66ed9d2aee539b451e142dc84932ccab21438020"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
@@ -307,7 +302,7 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.2.03.zip.txt"
+file = "shaderpacks/BSL_v8.2.03.1.zip.txt"
 hash = "c05307e2607e250f728f30b581911c34b5a118bf01013f18dbbbfe0f7b283e5b"
 
 [[files]]
@@ -315,12 +310,12 @@ file = "shaderpacks/ComplementaryReimagined_r2.1.zip.txt"
 hash = "5fe09874162eda9641567115bf7da115a85022f086abd63a9b038726b4081416"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.8c.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.8d.zip.txt"
 hash = "29e8ab75e328cf4eed5b0ef0d4d6e3a69e77aad72adfbea94c1ff814cde185e0"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "eb58e87100f2c3119960a4fb3d7c145d0c8f7b9b10e84185b48fdb88fb15d0dc"
+hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
 metafile = true
 
 [[files]]
@@ -335,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "476f5219961ffab5b92160aec12f15a014a1440ca5e6c4ca2cc06345f119a886"
+hash = "365c5df78274cbad7e3ddb8263a1d086a9d1d3455fae4cdb0722fe66569297ff"
 metafile = true
 
 [[files]]
