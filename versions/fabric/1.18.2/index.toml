@@ -93,6 +93,10 @@ file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "7862de0b62b2d6282a0cd0c7ac08e7e09f66833caec69ef16a554c34b89483e1"
 
@@ -134,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "592230244f9d4e4bafca9572bbb96df3e4ecb05a4f1643660bb113ac654cd6f1"
 metafile = true
 
 [[files]]
@@ -299,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d94f9ad5bbcda1ed1ac5ee7855db8ea638461c507122ed37689ee9a715aaf838"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "1b3926e303a048364492a90f7b6ac669be98538b973dbde453c824829131bdae"
 metafile = true
 
 [[files]]

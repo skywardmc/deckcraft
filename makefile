@@ -4,8 +4,8 @@ update-packwiz:
 	clear
 	@echo "Packwiz has been Updated"
 mods:
-	pw -b -d versions/fabric mr install qkl
-	pw -b -d versions/quilt mr install qkl
+	pw -b -d versions/fabric mr install world-host
+	pw -b -d versions/quilt mr install world-host
 export-fabric:
 	pw -b -d versions/fabric mr export
 export-quilt:
