@@ -3,7 +3,7 @@ entityShadows:false
 renderDistance:10
 simulationDistance:5
 graphicsMode:0
-maxFps:60
+maxFps:90
 renderClouds:"true"
 mipmapLevels:4
 fullscreen:true

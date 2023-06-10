@@ -1,7 +1,0 @@
-#Thu Apr 27 20:43:54 EDT 2023
-shadowDistance=128.0
-LIGHT_SHAFT=false
-SHADOW_FILTER=false
-shadowMapResolution=1024
-SHADOW_COLOR=false
-AO=false
