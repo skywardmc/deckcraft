@@ -310,11 +310,11 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.2.03.1.zip.txt"
+file = "shaderpacks/BSL_v8.2.04.zip.txt"
 hash = "c05307e2607e250f728f30b581911c34b5a118bf01013f18dbbbfe0f7b283e5b"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r2.1.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
 hash = "5fe09874162eda9641567115bf7da115a85022f086abd63a9b038726b4081416"
 
 [[files]]
