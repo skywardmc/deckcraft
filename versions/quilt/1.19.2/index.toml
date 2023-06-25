@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5411bb37ca57eeb8521a5466af17d495e7bdf4fa0d60303805f4917e042d11a9"
+hash = "d87e4906829df9e6d4a4e427893892399954724d8bf214ebae9c3906eba6ddb0"
 
 [[files]]
 file = "config/puzzle.json"
@@ -49,18 +49,6 @@ file = "config/yosbr/config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
-
-[[files]]
-file = "config/yosbr/config/fastload.properties"
-hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
-
-[[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
@@ -70,7 +58,7 @@ hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
-hash = "dbb62c94fb7ceb7676568e8100c7165f6755916406cf4914dd92aef3bfc35505"
+hash = "bdaf0822cb4d8dca39175bd9f413419faa1834a2149ce719ced38619a9e59b10"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -107,11 +95,6 @@ hash = "fb02732c182f86eaf51a2104fe84431a923f1d78cb8b33976063f211a73b2adc"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
 metafile = true
 
 [[files]]
@@ -167,16 +150,6 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8"
 metafile = true
 
 [[files]]
@@ -246,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "cc1a5233588d0c2a1a284a0d98f9543ca987afccfe5e7ecf4e98f3c3f74706e8"
+hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
 
 [[files]]
@@ -296,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "88a4ba2a1f8e4a73ce864438b8430cce3f20ed87182ff249e01f7aad22fe4ec3"
+hash = "3dd006851b3b08a10bd27a5972989736fd172e70befcbce75e30f8c3e84392c4"
 metafile = true
 
 [[files]]
@@ -306,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -318,7 +291,7 @@ file = "shaderpacks/ComplementaryReimagined_r2.2.zip.txt"
 hash = "5fe09874162eda9641567115bf7da115a85022f086abd63a9b038726b4081416"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.8d.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.8e.zip.txt"
 hash = "29e8ab75e328cf4eed5b0ef0d4d6e3a69e77aad72adfbea94c1ff814cde185e0"
 
 [[files]]
@@ -338,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "365c5df78274cbad7e3ddb8263a1d086a9d1d3455fae4cdb0722fe66569297ff"
+hash = "d607da4ce672251838256616b1c6db384f5f0b5d849e428ce05d852d6e9b81ae"
 metafile = true
 
 [[files]]
