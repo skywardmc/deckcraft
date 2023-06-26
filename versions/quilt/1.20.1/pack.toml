@@ -1,12 +1,12 @@
 name = "DeckCraft"
 author = "UltraStorm"
-version = "1.3.0+1.20.1.quilt"
+version = "1.3.1+1.20.1.quilt"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "332213f9b94187e2805f1170d2c9aeb3aec94bc06f468c5b8b2a05f964d6feb5"
+hash = "8e02d928db217e39245b4ad0d5f98e36e54d7653a13d0f5d9fdcd5be974fefda"
 
 [versions]
 minecraft = "1.20.1"
