@@ -41,7 +41,7 @@ My goal is to keep DeckCraft up-to-date with the latest Minecraft releases, prov
 
 ## ⚙️ How it works
 
-DeckCraft utilizes mods such as MidnightControls for controller support. It's built from a tweaked version of [Additive](https://modrinth.com/modpack/additive), which grants great performance improvements and other features. Many configurations are changed for the Deck's hardware and software so that you can get a smooth experience out of the box.
+DeckCraft utilizes mods such as Controlify and MidnightControls for controller support. It's built from a tweaked version of [Additive](https://modrinth.com/modpack/additive), which grants great performance improvements and other features. Many configurations are changed for the Deck's hardware and software so that you can get a smooth experience out of the box.
 
 ## 🐛 Reporting Issues
 
