@@ -1,3 +1,8 @@
+# Hey!
+We're looking for maintainers! See [issue #2](https://github.com/skywardmc/deckcraft/issues/2). This project will not receive any updates until then.
+
+---
+
 <div align="center">
   <a href="https://github.com/intergrav/DeckCraft">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/deckcraft/wordmark/wordmark_128h.png" alt="Logo" height="75">
