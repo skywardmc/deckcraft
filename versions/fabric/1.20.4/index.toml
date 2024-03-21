@@ -297,3 +297,18 @@ metafile = true
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ls-renderpearl.pw.toml"
+hash = "0d04e76d46a88daf4ae1d8b4766d461955713447316b5670f4487f6a06c68cd1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "be1fb8f1fd4f15a004605328969b397f245f2505de8b5bb8c78aa56a4e1fd483"
+metafile = true

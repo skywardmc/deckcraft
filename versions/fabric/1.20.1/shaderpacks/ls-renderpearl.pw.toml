@@ -1,0 +1,13 @@
+name = "LS RenderPearl"
+filename = "LS RenderPearl v1.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BrRak9pu/versions/d7QBDGl3/LS%20RenderPearl%20v1.7.zip"
+hash-format = "sha1"
+hash = "94d5e0873e8c14ba0a13b6409d89da13e4e6c55d"
+
+[update]
+[update.modrinth]
+mod-id = "BrRak9pu"
+version = "d7QBDGl3"
