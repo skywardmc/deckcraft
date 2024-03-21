@@ -29,6 +29,10 @@ file = "config/yosbr/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "a3f49f9c1731c8a4e8b7d859860560862b2424858e72d04afed1d5b0bc2dc493"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "163f49d5c78bf76b1a112c792e936a5915994c472985585a9463134971abd607"
 
