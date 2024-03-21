@@ -1,3 +1,16 @@
+enableVsync:true
+renderDistance:10
 simulationDistance:5
 resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
 onboardAccessibility:true
+graphicsMode:0
+maxFps:90
+fullscreen:true
+darkMojangStudiosBackground:true
+fov:0.25
+fovEffectScale:0.75
+screenEffectScale:0.5
+damageTiltStrength:0.75
+guiScale:0
+particles:1
+bobView:false
