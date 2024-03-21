@@ -1,6 +1,6 @@
 {
-  "global": {
-    "reach_around": "SINGLEPLAYER_AND_LAN",
-    "ui_sounds": true
-  }
+	"global": {
+		"reach_around": "SINGLEPLAYER_AND_LAN",
+		"ui_sounds": true
+	}
 }
