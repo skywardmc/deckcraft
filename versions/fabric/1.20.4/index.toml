@@ -312,3 +312,8 @@ metafile = true
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "be1fb8f1fd4f15a004605328969b397f245f2505de8b5bb8c78aa56a4e1fd483"
 metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "c0a7e366c47fa52bd86efaf837e57df4b0d59424ee2b11ad36fe29cf0d315dbd"
+metafile = true
