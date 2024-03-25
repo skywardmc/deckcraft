@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c923430e0b8c5bf93990d265e8f787bd45258e44f7077a881ffe8681a76f2b71"
+hash = "1cc4ff9e254f1af0aa5a266731070b9aa1e45cc9358e8e6b5d67a6f55db69fb2"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "be1fb8f1fd4f15a004605328969b397f245f2505de8b5bb8c78aa56a4e1fd483"
+hash = "67e09248d3f0bef38d119207c4bf44a2b4ffcd78ab99f7a7cc9967b9979028c0"
 metafile = true
 
 [[files]]
