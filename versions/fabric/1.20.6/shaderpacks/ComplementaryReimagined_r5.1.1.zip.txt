@@ -1,0 +1,10 @@
+# Optimized settings for the original Steam Deck (should work well on Steam Deck OLED too, but untested)
+shadowDistance=64.0
+WATER_REFLECT_QUALITY=1
+FXAA=false
+CLOUD_QUALITY=1
+SHADOW_QUALITY=0
+DETAIL_QUALITY=0
+LIGHTSHAFT_QUALI_DEFINE=0
+WATER_QUALITY=1
+BLOCK_REFLECT_QUALITY=0
