@@ -1,5 +1,5 @@
 {
   "main_menu": {
-    "bottom_left": [{"text":"DeckCraft 2.3.0","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/deckcraft"}}]
+    "bottom_left": [{"text":"DeckCraft 2.4.0","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/deckcraft"}}]
   }
 }
