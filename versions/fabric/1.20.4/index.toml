@@ -356,5 +356,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "3e46e5e264ceb8a3af2e015efed60402db83bb2b1e981753e99a0de7acd4e4fb"
+hash = "25d496bb85bd48864fc6387c6e1dd992538276e52b2e8a4fb98359e69cde8964"
 metafile = true

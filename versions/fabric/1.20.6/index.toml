@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b1faf94fe7c21a590555784e9d715a33c4b07789c3e98cbfc0686d73c9605331"
+hash = "2600531abea1670221c21edf73d7024cf1285f58bca3a838777f957e5e17f477"
 metafile = true
 
 [[files]]
@@ -361,5 +361,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "3e46e5e264ceb8a3af2e015efed60402db83bb2b1e981753e99a0de7acd4e4fb"
+hash = "25d496bb85bd48864fc6387c6e1dd992538276e52b2e8a4fb98359e69cde8964"
 metafile = true

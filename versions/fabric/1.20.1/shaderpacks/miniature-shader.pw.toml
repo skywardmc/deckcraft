@@ -1,13 +1,13 @@
 name = "Miniature Shader"
-filename = "miniature-shader-2.10.zip"
+filename = "miniature-shader-2.11.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/tDaXpkBE/miniature-shader-2.10.zip"
+url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/i9coSCz3/miniature-shader-2.11.zip"
 hash-format = "sha1"
-hash = "214ceea702600bad28f3a311ccfdebfb82bcf523"
+hash = "318c3eba0fa6ad3dbc16ad26d7b5d5377953b9a4"
 
 [update]
 [update.modrinth]
 mod-id = "UaS8ROxa"
-version = "tDaXpkBE"
+version = "i9coSCz3"
