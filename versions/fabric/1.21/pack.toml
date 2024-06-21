@@ -1,0 +1,13 @@
+name = "DeckCraft"
+author = "SkywardMC"
+version = "2.4.0+1.21.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "75460441c9782e4d634bb7434661bec79737c93ab7de58c8f1ac8bd3e0fcd8fc"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
