@@ -89,10 +89,6 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "6f40c73a46d6bcddd36dcf30727f8ab82f6a0a1bc6d1807604b6e03811cb6925"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
-
-[[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
