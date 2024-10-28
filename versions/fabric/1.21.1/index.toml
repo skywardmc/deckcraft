@@ -309,11 +309,6 @@ hash = "f25ee383f37be1c7033e1ba1e57a85c76b07ca59d4afcfcc234c12b9f5c4f964"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "c7b00c2657fd545091480fbc7e48a2fe4be6e2bbe0711843a0328c969b0b7d97"
-metafile = true
-
-[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
 metafile = true
@@ -351,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "2f02b4f8f5b190c53e3cd318abbdc95849525e770353f7d15470d2b181330ecf"
+metafile = true
+
+[[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "c001785f7ec4318ac5a72b97ebffa66caea27665ba9d0bfa831ba5ad9133d3b0"
 metafile = true
 
 [[files]]

@@ -314,11 +314,6 @@ hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
 file = "mods/resolution-control-plus.pw.toml"
 hash = "f0dcbfc4f9cca6aa877c806b357f02e3be9fbf001c331b321f6855773129785a"
 metafile = true
@@ -351,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "d6b2f352de3b3dac60040bfe4f5f61330527470a78d84d46b8ca27a87d3ebecc"
+metafile = true
+
+[[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "9bb3e0b52268a48ecb2ab734746740e9cbcf250eb4ea004bcffa44aa9c4ee00c"
 metafile = true
 
 [[files]]
