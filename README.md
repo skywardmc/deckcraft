@@ -1,3 +1,12 @@
+> ### ⚠️ DeckCraft has been discontinued!
+> 
+> [Additive](https://modrinth.com/modpack/additive) already performs very well on the Steam Deck with it's base settings. The only two main differences is that DeckCraft adds Controlify and turns on fullscreen for you - that's pretty much it. I personally think that it makes more sense to just use Additive and then install Controlify and enable fullscreen manually. I will likely be adding Controlify to Additive in a later release so that it's ready out of the box.
+> 
+> To install Additive on the Steam Deck and other handhelds, simply install Additive as normal, and then install Controlify and once you're in-game enable fullscreen so that the game takes up the proper aspect ratio. That's all you need to do!
+
+<details>
+<summary>Archived description</summary>
+
 <div align="center">
   <a href="https://github.com/intergrav/DeckCraft">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/deckcraft/wordmark/wordmark_128h.png" alt="Logo" height="75">
